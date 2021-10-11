@@ -60,13 +60,14 @@ body {
 }
 
 .hh{
+    font-size: 1.5rem
     margin-top: 250px;
     color: transparent;
     visibility: hidden;
 }
 
 .pp {
-    font-size: 1.25rem;
+    font-size: 1rem;
     color: transparent;
     visibility: hidden;
 }
@@ -74,7 +75,7 @@ body {
 .btn {
     color: #111;
     background-color: #fff;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     text-decoration: none;
     padding: 0.5rem 1.2rem;
     width: 150px;
