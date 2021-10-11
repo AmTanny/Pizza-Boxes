@@ -43,7 +43,7 @@ body {
     border-radius: 30px;
     text-align: center;
     margin: 2rem;
-    filter: brightness(50%);
+    filter: brightness(85%);
     transition: 0.4s all;
     cursor: pointer;
 }
